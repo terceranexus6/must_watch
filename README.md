@@ -7,6 +7,6 @@ Esta lista no es una democracia, es una absoluta dictadura liderada por mi buen 
 Directorio:
 
 - [Series](https://github.com/terceranexus6/must_watch/blob/master/Series/series.md)
-- [Dibujos y anime]()
+- [Dibujos y anime](https://github.com/terceranexus6/must_watch/blob/master/Dibujos/main.md)
 - [Pelis]()
 - [Otros]()
