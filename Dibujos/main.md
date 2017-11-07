@@ -15,11 +15,12 @@ Esta parte está dividida en dibujos no anime que son imprescindibles y luego an
       - Serial Experiments Lain (serie)
       - Texhnolyze (serie)
       - Evangelion
+
   - OTRAS
+      - One Punch Man (incluidos OVA)
       - Todas las pelis de Satoshi Kon (P)
         - Millenium Actress
         - Paprika (P)
         - Tokyo Godfathers
         - Perfect Blue
         - Paranoia Agent (serie)
-      
