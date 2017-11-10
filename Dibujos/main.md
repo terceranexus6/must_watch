@@ -12,6 +12,7 @@ Esta parte está dividida en dibujos no anime que son imprescindibles y luego an
   - SCIFI y cyberpunk
       - AKIRA (peli) (P)
       - GITS 1 y 2 (pelis) (P)
+      - Space Dandy (P)
       - Serial Experiments Lain (serie)
       - Texhnolyze (serie)
       - Evangelion
