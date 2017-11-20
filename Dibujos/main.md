@@ -7,7 +7,10 @@ Esta parte está dividida en dibujos no anime que son imprescindibles y luego an
   - Rick and Morty (P)
   - Samurai Jack (P)
   - The amazing world of Gumball
-  - Gravity Falls
+  - Gravity Falls (P)
+  - Hora de aventuras
+  - Steven Universe
+  - Regular Show
 
 - Anime
   - SCIFI y cyberpunk
@@ -17,9 +20,11 @@ Esta parte está dividida en dibujos no anime que son imprescindibles y luego an
       - Serial Experiments Lain (serie)
       - Texhnolyze (serie)
       - Evangelion
+      
 
   - OTRAS
       - One Punch Man (incluidos OVA)
+      - Samurai Champloo
       - Todas las pelis de Satoshi Kon (P)
         - Millenium Actress
         - Paprika (P)
