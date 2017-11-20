@@ -7,6 +7,7 @@ Esta parte está dividida en dibujos no anime que son imprescindibles y luego an
   - Rick and Morty (P)
   - Samurai Jack (P)
   - The amazing world of Gumball
+  - Gravity Falls
 
 - Anime
   - SCIFI y cyberpunk
